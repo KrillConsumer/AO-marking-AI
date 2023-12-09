@@ -1,0 +1,80 @@
+{
+    "Content_Form_Organization_Style": {
+        "13-15": {
+            "follows_cress": "Follows CRESS with a strong link to the stimulus throughout the story.",
+            "distinct_linear_plot": "There is one distinct, linear plot which builds tension to a climax and then resolves. It follows the appropriate form of an introduction, complication, and resolution.",
+            "plot_uniqueness": "Plot is unique/interesting and demonstrates maturity.",
+            "character_development": "Response also explores character development, human emotions and approaches the stimulus more metaphorically.",
+            "flow_of_ideas": "The flow of ideas makes logical sense with no abrupt information. It is organised coherently with paragraphs and a range of cohesive devices.",
+            "focused_writing": "Writing is focused on significant events and actions with no unnecessary mundane details.",
+            "sophisticated_vocabulary": "There is a variety of sophisticated vocabulary and expressions used in the correct context.",
+            "deliberate_style": "The written response uses a deliberately chosen style and contains a variety of writing techniques appropriate for the text type."
+        },
+        "10-12": {
+            "partially_follows_cress": "Generally follows CRESS with a link to the stimulus, but may have moments where the connection is weaker.",
+            "clear_plot": "There is a clear and linear plot with an introduction, complication, and resolution, but the tension may not build as effectively.",
+            "plot_interest": "Plot is somewhat unique and demonstrates a degree of maturity, though it may not be entirely original.",
+            "some_character_development": "Response explores character development and human emotions but may do so less deeply or less metaphorically.",
+            "mostly_coherent_flow": "Ideas are mostly coherent with occasional abrupt or loosely connected information, organized into paragraphs with some cohesive devices.",
+            "mostly_focused_writing": "Writing generally focuses on significant events with some mundane details present.",
+            "varied_vocabulary": "Uses a good variety of vocabulary appropriate for the context, though not as sophisticated.",
+            "consistent_style": "The written response attempts a consistent style with some use of writing techniques appropriate for the text type."
+        },
+        "7-9": {
+            "basic_follows_cress": "Follows CRESS with a basic link to the stimulus, which may not be maintained throughout the story.",
+            "simple_plot": "There is a simple plot that includes an introduction, complication, and resolution, but lacks strong tension and climax.",
+            "common_plot": "The plot is common and demonstrates a basic level of maturity, with ideas that may be shared by many students.",
+            "limited_character_development": "Character development and human emotions are present but told rather than shown, with a more literal interpretation of the stimulus.",
+            "some_flow_issues": "Flow of ideas can be interrupted by abrupt or illogical events, organized into paragraphs with limited use of cohesive devices.",
+            "some_unfocused_writing": "Writing includes both significant events and unnecessary mundane details.",
+            "adequate_vocabulary": "Uses adequate vocabulary that fits the context but lacks variety and sophistication.",
+            "basic_style": "The written response has a basic style with limited use of writing techniques."
+        },
+        "4-6": {
+            "inconsistent_follows_cress": "Inconsistently follows CRESS with a weak link to the stimulus that is often unclear or lost.",
+            "undeveloped_plot": "The plot is underdeveloped, lacking clear introduction, complication, or resolution, with minimal tension.",
+            "unoriginal_plot": "The plot lacks originality and maturity, with predictable or clichéd ideas.",
+            "superficial_character_development": "Characters are superficial with minimal development or exploration of human emotions.",
+            "disjointed_flow": "Flow of ideas is often disjointed, with illogical progression and minimal paragraph structure or cohesive devices.",
+            "unfocused_writing": "Writing is unfocused, dominated by mundane details with little significance.",
+            "basic_vocabulary": "Relies on basic, repetitive vocabulary with little to no sophistication.",
+            "inconsistent_style": "The writing lacks a deliberate style and shows minimal use of appropriate writing techniques."
+        },
+        "1-3": {
+            "does_not_follow_cress": "Does not follow CRESS, with no discernible link to the stimulus or only a token mention.",
+            "disjointed_plot": "The plot is disjointed, immature, and follows no clear form, with no development of tension nor a clear plot line.",
+            "uninteresting_plot": "The plot is not interesting or mature, with a collection of unrelated ideas.",
+            "one_dimensional_characters": "Characters are one-dimensional with no development; human emotions and stimulus interpretation are superficial and literal.",
+            "incoherent_flow": "Ideas are incoherently presented without logical sequencing or proper paragraph structure, lacking cohesive devices.",
+            "mundane_writing": "Writing dwells on mundane, irrelevant details, failing to convey significance or focus.",
+            "limited_vocabulary": "Utilizes a limited and basic vocabulary without appropriate context or expression.",
+            "lack_of_style": "There is a complete lack of style or writing techniques, with no apparent understanding of the text type."
+        }
+    },
+    "Expression": {
+        "9-10": {
+            "sentence_variety": "There is a range of sentence lengths and structures which engage the reader.",
+            "sentence_types": "There is a variety of sentence types (simple, complex, compound) that creates flow and tension.",
+            "logical_flow_of_ideas": "There is a logical flow of ideas within paragraphs. There are no redundant words and no verbose or ambiguous phrases.",
+            "technical_skills": "Technical skills (grammar, punctuation, and spelling) were implemented correctly with minor slip-ups that do not detract from the overall quality."
+        },
+        "5-6": {
+            "repetitive_sentence_structure": "Sentence lengths and structures are repetitive. Sentences often start with the same word (I, he/she, the) and are short.",
+            "limited_sentence_variety": "Sentence types are limited in variety with the occasional use of compound and complex sentences.",
+            "redundant_words": "There are some redundant words and verbose or ambiguous phrases. At times, it is difficult to follow the flow of their logic.",
+            "occasional_errors": "Occasional errors in technical skills (grammar, punctuation, and spelling) sometimes made you stop reading to make corrections."
+        },
+        "3-4": {
+            "some_sentence_variety": "Limited use of sentence variety; structures are somewhat varied but not engaging.",
+            "basic_sentence_types": "Basic use of different sentence types, but without creating much flow or tension.",
+            "poor_logical_flow": "Flow of ideas is present but not always logical or clear, with some redundancy and verbosity.",
+            "frequent_technical_errors": "Frequent errors in technical skills (grammar, punctuation, and spelling) that can detract from the overall quality."
+        },
+        "1-2": {
+            "monotonous_sentence_structure": "Sentence lengths and structures are monotonous and often start with the same word.",
+            "simple_sentences_only": "Almost exclusively simple sentences with no variety, failing to create flow or tension.",
+            "incoherent_phrasing": "Many redundant words and verbose or ambiguous phrases that often repeat the same idea.",
+            "pervasive_technical_errors": "Pervasive errors in technical skills (grammar, punctuation, and spelling) that disrupt reading and comprehension."
+        }
+    }
+}
